@@ -19,9 +19,9 @@
 <p align="left">
 <a href="https://twitter.com/bijanstha7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bijanstha7" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bijanshrestha7170" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bijanshrestha7170" height="30" width="40" /></a>
-<a href="https://fb.com/bijan shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bijan shrestha" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100005638113492&sk=grid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bijan shrestha" height="30" width="40" /></a>
 <a href="https://instagram.com/bijanshrestha__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijanshrestha__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bijanshrestha1104" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bijan shrestha" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCb2zsO7BoN145g4xm4cUjaQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bijan shrestha" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
