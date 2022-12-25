@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node Js, React, MongoDB.**
 
-- 👨‍💻 All of my projects are available at [bijanshrestha.com.np](bijanshrestha.com.np)
+- 👨‍💻 All of my projects are available at [bijanshrestha.com.np](https://bijanshrestha.com.np/)
 
 - 📫 How to reach me **bijan.shrestha7170@gmail.com**
 
