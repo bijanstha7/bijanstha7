@@ -10,6 +10,9 @@
 - 🌱 I’m currently learning **Node Js, React, MongoDB.**
 
 - 👨‍💻 All of my projects are available at [bijanshrestha.com.np](https://bijanshrestha.com.np/)
+- 
+- ![image](https://user-images.githubusercontent.com/65908386/217897099-11247ad4-3485-4447-ab70-9830e2ae2804.png)
+ Resume are available at [Bijan Shrestha](https://drive.google.com/file/d/1KXsb9TW750ZXXBTSelWFjowaWo6b6SuX/view?usp=sharing)
 
 - 📫 How to reach me **bijan.shrestha7170@gmail.com**
 
